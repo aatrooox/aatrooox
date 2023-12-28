@@ -1,6 +1,6 @@
 ### 👋 Hi, It's 枣把儿 here
 
-- 🤔 我正在尝试做一些小产品，并把他们结合起来，放在一个更大的产品里...
+🤔 我正在尝试做一些小产品，并把他们结合起来，放在一个更大的产品里...
 
 ![Vue.js](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=FFCA28)
@@ -10,9 +10,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zzdaddy&show_icons=true&theme=tokyonight)
 
-`Follow me`
+⬇️ 我会把过程记录在公众号：[早早集市](https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A) ⬅️
 
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A" target="_blank">
 <img src=https://img.shields.io/badge/wechat-%2324292e.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
 </a>
 
