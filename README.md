@@ -1,6 +1,6 @@
 ### 👋 Hi, It's 枣把儿 here
 
-🤔 我正在尝试做一些小产品，并把他们结合起来，放在一个更大的产品里...
+一个正在扩充全栈知识库「早早集市」的开发者
 
 ![Vue.js](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=FFCA28)
