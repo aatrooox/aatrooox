@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=zzdaddy&show_icons=true&theme=tokyonight)
 
 ⬇️ 我会把过程记录在公众号：[早早集市](https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A) ⬅️
-
+或者直接加我VX:zzdaddy7，并备注来意，如：Github-交个朋友
 <a href="https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A" target="_blank">
 <img src=https://img.shields.io/badge/wechat-%2324292e.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
 </a>
