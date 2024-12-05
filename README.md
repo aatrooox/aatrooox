@@ -1,12 +1,10 @@
-### 👋 Hi, It's 枣把儿 here
+### 👋 Hi, It's zzao.club here
 
-一个正在扩充全栈知识库「早早集市」的开发者
+一个正在捣鼓不知道为什么叫「早早集市」的不知道里面有什么的开发者
 
-![Vue.js](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=FFCA28)
-![NestJS](https://img.shields.io/badge/-NestJS-FB7299?style=flat-square&logo=NestJS&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-545CED?style=flat-square&logo=Docker&logoColor=ffffff)
-
+![Vue3](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![Nuxt3](https://img.shields.io/badge/-Nuxt3.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
+![Nitro](https://img.shields.io/badge/-Nitro.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 
 ![](https://github-readme-stats.vercel.app/api?username=zzdaddy&show_icons=true&theme=tokyonight)
 
