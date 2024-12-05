@@ -1,6 +1,6 @@
 ### 👋 Hi, It's zzao.club here
 
-一个正在捣鼓不知道为什么叫「早早集市」的不知道里面有什么的开发者
+一个正在把所有 idea 都放进「[早早集市](https://zzao.club)」的全栈开发者
 
 ![Vue3](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Nuxt3](https://img.shields.io/badge/-Nuxt3.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
@@ -8,9 +8,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zzdaddy&show_icons=true&theme=tokyonight)
 
-⬇️ 我会把过程记录在公众号：[早早集市](https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A) ⬅️
+项目目前 all in `Nuxt生态`，相关文章/文档也以 Nuxt@latest 为主。
 
-或者直接加我VX:zzdaddy7，并备注来意，如：Github-交个朋友
+VX:523748995
 
 <a href="https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A" target="_blank">
 <img src=https://img.shields.io/badge/wechat-%2324292e.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
