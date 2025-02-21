@@ -1,6 +1,6 @@
 ### 👋 Hi, It's zzao.club here
 
-一个正在把所有想法都放进「[早早集市](https://zzao.club)」的全栈开发者
+记录、[分享](https://imgx.zzao.club)、连接、通知、获取、成就
 
 ![Vue3](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Nuxt3](https://img.shields.io/badge/-Nuxt3.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
