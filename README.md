@@ -8,15 +8,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=aatrooox&show_icons=true&theme=tokyonight)
 
-项目目前 all in `Nuxt生态`，相关文章/文档也以 Nuxt@latest 为主。
+项目目前 all in `Nuxt生态`，相关文章/文档也以 Nuxt@latest 为主。 
 
-源码不在 `github`，后续会抽离出来在 `github` 开源。
+VX:`523748995` 欢迎围观和加入 Nuxt 交流群👏
 
-VX:`523748995` 欢迎交流👏
-
-<a href="https://mp.weixin.qq.com/s/A8wHxE5Q2jl6Su_7QA6f-A" target="_blank">
-<img src=https://img.shields.io/badge/wechat-%2324292e.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
-</a>
 
 <!--
 
