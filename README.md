@@ -3,12 +3,10 @@
 记录、[分享](https://imgx.zzao.club)、连接、通知、获取、成就
 
 ![Vue3](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![Nuxt3](https://img.shields.io/badge/-Nuxt3.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
+![Nuxt3](https://img.shields.io/badge/-Nuxt4.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 ![Nitro](https://img.shields.io/badge/-Nitro.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 
-![](https://github-readme-stats.vercel.app/api?username=aatrooox&show_icons=true&theme=tokyonight)
-
-项目目前 all in `Nuxt生态`，相关文章/文档也以 Nuxt@latest 为主。 
+项目主打 `Nuxt生态`，相关文章/文档也以 Nuxt@latest 为主。 
 
 VX:`523748995` 欢迎围观和加入 Nuxt 交流群👏
 
