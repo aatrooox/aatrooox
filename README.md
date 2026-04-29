@@ -1,14 +1,20 @@
-### 👋 Hi, It's zzao.club here
-
-记录、[分享](https://imgx.zzao.club)、连接、通知、获取、成就
+### 👋 Hi, It's Aatrox here
 
 ![Vue3](https://img.shields.io/badge/-Vue3.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Nuxt3](https://img.shields.io/badge/-Nuxt4.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 ![Nitro](https://img.shields.io/badge/-Nitro.js-4FC08D?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 
-项目主打 `Nuxt生态`，相关文章/文档也以 Nuxt@latest 为主。 
+AI Agent 维新派!
 
-VX:`523748995` 欢迎围观和加入 Nuxt 交流群👏
+项目主打 Vibe Coding，以`Nuxt生态`、`Bun`、本地`Agent`为核心。 
+
+目前已经完成公众号内容创作的素材收集 -> 内容编写 -> 内容审查 -> 素材落地 -> 渲染配图 -> 发布到草稿箱全流程。
+
+支持**批量、自动、并行**。
+
+有 Agent（Hermes/OpenClaw）时可以同时派发多个Agent执行任务，无 Agent 也能直接一键发布。任务中断时从任意步骤重启，支持Agent从任意步骤接手任务。
+
+VX:`523748995` 欢迎围观和加入 AI AGENT 交流群👏
 
 
 <!--
